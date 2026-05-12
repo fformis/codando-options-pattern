@@ -1,0 +1,6 @@
+@codando_options_pattern_HostAddress = http://localhost:5161
+
+GET {{codando_options_pattern_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
